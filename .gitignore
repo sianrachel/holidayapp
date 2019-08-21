@@ -7,3 +7,6 @@ tsconfig.paths.json
 .env
 .eslintrc.json
 README.md
+cypress.json
+tsconfig.json
+.prettierc 
