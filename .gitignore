@@ -9,4 +9,4 @@ tsconfig.paths.json
 README.md
 cypress.json
 tsconfig.json
-.prettierc 
+.prettierrc 
